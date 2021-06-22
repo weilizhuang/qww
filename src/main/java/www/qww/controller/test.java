@@ -8,6 +8,6 @@ public class test {
     @RequestMapping("/test")
     @ResponseBody
     public String updateAlgorithmInfo() {
-        return "test";
+        return "test1111";
     }
 }
